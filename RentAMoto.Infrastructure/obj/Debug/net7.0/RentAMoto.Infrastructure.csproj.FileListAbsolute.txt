@@ -1,0 +1,17 @@
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\bin\Debug\net7.0\RentAMoto.Infrastructure.deps.json
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\bin\Debug\net7.0\RentAMoto.Infrastructure.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\bin\Debug\net7.0\RentAMoto.Infrastructure.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.AssemblyInfo.cs
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\refint\RentAMoto.Infrastructure.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\ref\RentAMoto.Infrastructure.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\bin\Debug\net7.0\RentAMoto.Infrastructure.runtimeconfig.json
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.genruntimeconfig.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\bin\Debug\net7.0\RentAMoto.Domain.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\bin\Debug\net7.0\RentAMoto.Domain.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Infrastructure\obj\Debug\net7.0\RentAMoto.Infrastructure.csproj.CopyComplete

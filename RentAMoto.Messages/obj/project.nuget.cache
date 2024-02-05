@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+pblxi68BaX+9hHKSKqnfqXHiEdd6jCsC9fljxy/5f+sb5tr/0hqKY32aVep4k74OImS1UZmGEZkIMdtIhJBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeisiandosSantosReis\\Desktop\\Nova pasta (2)\\RentAMoto.Messages\\RentAMoto.Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeisiandosSantosReis\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\GeisiandosSantosReis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\GeisiandosSantosReis\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

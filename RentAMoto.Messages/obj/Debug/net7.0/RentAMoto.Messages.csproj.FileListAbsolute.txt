@@ -1,0 +1,15 @@
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\bin\Debug\net7.0\RentAMoto.Messages.deps.json
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\bin\Debug\net7.0\RentAMoto.Messages.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\bin\Debug\net7.0\RentAMoto.Messages.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.csproj.AssemblyReference.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.AssemblyInfoInputs.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.AssemblyInfo.cs
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.csproj.CoreCompileInputs.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\refint\RentAMoto.Messages.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\ref\RentAMoto.Messages.dll
+c:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\bin\Debug\net7.0\RentAMoto.Domain.dll
+c:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\bin\Debug\net7.0\RentAMoto.Domain.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Messages\obj\Debug\net7.0\RentAMoto.Messages.csproj.CopyComplete

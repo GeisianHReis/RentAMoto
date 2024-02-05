@@ -1,0 +1,12 @@
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\bin\Debug\net7.0\RentAMoto.Domain.deps.json
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\bin\Debug\net7.0\RentAMoto.Domain.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\bin\Debug\net7.0\RentAMoto.Domain.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.csproj.AssemblyReference.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.AssemblyInfoInputs.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.AssemblyInfo.cs
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\refint\RentAMoto.Domain.dll
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\RentAMoto.Domain.pdb
+C:\Users\GeisiandosSantosReis\Desktop\Nova pasta (2)\RentAMoto.Domain\obj\Debug\net7.0\ref\RentAMoto.Domain.dll
